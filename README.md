@@ -1,7 +1,7 @@
 # FarshadTofighi
 About Me
 
-I'm Farshad Tofighi, As a Backend Developer, I have been developing for over 10 years working with professional teams in some high-tech companies. I have a deep understanding of developing software infrastructures like microservices and monolithic with proven experience of using Agile Scrum method in my career.
+I'm Farshad Tofighi, As a Backend Developer, I have been developing for over +10 years working with professional teams in some high-tech companies. I have a deep understanding of developing software infrastructures like microservices and monolithic with proven experience of using Agile Scrum method in my career.
 
 Always eager to learn new technologies and broaden my skills in software engineering. A strong believer in the power of collaboration and open to new opportunities that challenge me to grow.
 
@@ -28,8 +28,12 @@ Always eager to learn new technologies and broaden my skills in software enginee
 ![Jquery](https://img.shields.io/badge/Jquery-0769ad?style=for-the-badge&logo=jquery&logoColor=white)
 ![Ajax](https://img.shields.io/badge/Ajax-0078d4?style=for-the-badge&logo=ajax&logoColor=white)
 
+## 👨‍💻 Website:
+[![Website](https://img.shields.io/badge/farshadth.ir-800080?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://farshadth.ir)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farshadth)
+[![Skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/m1oFsyLhcK4I)
 
 ## 📊 Stats:
 ![Farshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farshadth&show_icons=true&theme=radical)
