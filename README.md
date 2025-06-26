@@ -33,7 +33,6 @@ Always eager to learn new technologies and broaden my skills in software enginee
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farshadth)
-[![Skype](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/m1oFsyLhcK4I)
 
 ## 📊 Stats:
 ![Farshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farshadth&show_icons=true&theme=radical)
