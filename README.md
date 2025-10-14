@@ -1,4 +1,4 @@
-# FarshadTofighi
+# Farshad Tofighi
 About Me
 
 I'm Farshad Tofighi, As a Backend Developer, I have been developing for over +10 years working with professional teams in some high-tech companies. I have a deep understanding of developing software infrastructures like microservices and monolithic with proven experience of using Agile Scrum method in my career.
