@@ -20,7 +20,7 @@ Always eager to learn new technologies and broaden my skills in software enginee
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-6db33f?style=for-the-badge&logo=testing&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-00bfff?style=for-the-badge&logo=api&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-1e90ff?style=for-the-badge)
-![Livewire](https://img.shields.io/badge/Livewire-1e90ff?style=for-the-badge)
+![Livewire](https://img.shields.io/badge/Livewire-f55247?style=for-the-badge&logo=laravel)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
